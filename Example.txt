@@ -1,0 +1,3 @@
+from nibabel inport nb
+
+nii=nb.load("template.nii.gz")
